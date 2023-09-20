@@ -14,4 +14,4 @@ Esto es una lista no ordenada:
 * Mas item
     * sub-item
 
-![logo URJC](/L2/Logo_URJC.svg.png)
+![logo URJC](Logo_URJC.svg.png)
