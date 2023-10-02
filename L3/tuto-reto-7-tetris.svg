@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg11299"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="tuto-reto-6-tetris.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview11301"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:snap-page="false"
+     inkscape:zoom="0.98520767"
+     inkscape:cx="388.75053"
+     inkscape:cy="531.36005"
+     inkscape:window-width="933"
+     inkscape:window-height="1016"
+     inkscape:window-x="20"
+     inkscape:window-y="20"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs11296" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect12625"
+       style="fill:#0000ff;stroke:#000000;stroke-width:0.999999"
+       d="M 120.2793 98.296875 L 120.2793 270.06836 L 120.2793 379.73047 L 257.36914 379.73047 L 429.91406 379.73047 L 429.91406 270.06836 L 257.36914 270.06836 L 257.36914 98.296875 L 120.2793 98.296875 z "
+       transform="scale(0.26458333)" />
+    <rect
+       style="fill:#ff0000;stroke:#000000;stroke-width:0.264583"
+       id="rect12629"
+       width="55.38546"
+       height="60.68734"
+       x="141.72304"
+       y="35.298317" />
+    <path
+       id="rect12631"
+       style="fill:#782121;stroke:#000000;stroke-width:0.999999"
+       d="M 168.81836 501.78516 L 168.83203 607.39844 L 52.912109 607.39844 L 52.912109 723.68945 L 310.16211 723.68945 L 310.16211 624.40039 L 437.99414 624.40039 L 437.97852 501.78516 L 168.81836 501.78516 z "
+       transform="scale(0.26458333)" />
+    <path
+       id="rect12635"
+       style="fill:#008000;stroke:#000000;stroke-width:0.999999"
+       d="M 602.30859 612.6875 L 602.30859 783.86914 L 393.33398 783.86914 L 393.33398 890.40234 L 602.30859 890.40234 L 729.34375 890.40234 L 729.34375 783.86914 L 729.34375 612.6875 L 602.30859 612.6875 z "
+       transform="scale(0.26458333)" />
+    <rect
+       style="fill:#00ffff;stroke:#000000;stroke-width:0.264583"
+       id="rect12639"
+       width="87.962547"
+       height="23.73048"
+       x="101.27495"
+       y="264.74155" />
+    <path
+       id="rect12641"
+       style="fill:#ffff00;stroke:#000000;stroke-width:0.999999"
+       d="M 139.44922 849.24219 L 139.44922 977.12891 L 54.017578 977.12891 L 54.017578 1067.8633 L 308.16016 1067.8633 L 308.16016 977.12891 L 220.39258 977.12891 L 220.39258 849.24219 L 139.44922 849.24219 z "
+       transform="scale(0.26458333)" />
+  </g>
+</svg>
