@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (1:1.3+202307231459+0e150ed6c4)"
+   sodipodi:docname="tuto-reto-5-6-guias-eslabon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:lockguides="false"
+     showgrid="true"
+     inkscape:zoom="0.48756441"
+     inkscape:cx="83.065948"
+     inkscape:cy="143.57077"
+     inkscape:window-width="1003"
+     inkscape:window-height="1016"
+     inkscape:window-x="20"
+     inkscape:window-y="20"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="210.40873,201.23213"
+       orientation="793.70079,0"
+       id="guide9"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="97.576593,124.46481"
+       orientation="0,-1122.5197"
+       id="guide10"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="59.990797,6.837231"
+       orientation="-793.70079,0"
+       id="guide11"
+       inkscape:locked="false" />
+    <inkscape:grid
+       id="grid11"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="0.99999998"
+       empcolor="#ffc6c6"
+       empopacity="0.30196078"
+       color="#e5d500"
+       opacity="0.14901961"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect17"
+       style="fill:#b0ffff;stroke:#000000;stroke-width:0.637184;fill-opacity:1"
+       d="M 59.977734 55.75422 L 59.977734 55.996065 A 29.518101 29.654913 0 0 0 30.576945 85.653687 A 29.518101 29.654913 0 0 0 60.099691 115.29839 A 29.518101 29.654913 0 0 0 62.339864 115.13716 L 209.34639 115.13716 A 29.518101 29.654913 0 0 0 210.68895 115.23328 A 29.518101 29.654913 0 0 0 240.20188 85.578239 L 240.20188 85.558085 A 29.518101 29.654913 0 0 0 210.66879 55.923718 A 29.518101 29.654913 0 0 0 210.2342 55.955241 L 210.2342 55.75422 L 59.977734 55.75422 z " />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.320535"
+       id="path15"
+       sodipodi:type="arc"
+       sodipodi:cx="60.152195"
+       sodipodi:cy="85.538025"
+       sodipodi:rx="9.8397264"
+       sodipodi:ry="9.8397064"
+       sodipodi:start="0"
+       sodipodi:end="6.2825013"
+       sodipodi:arc-type="arc"
+       d="m 69.991921,85.538025 a 9.8397264,9.8397064 0 0 1 -9.838043,9.839706 9.8397264,9.8397064 0 0 1 -9.841409,-9.836341 9.8397264,9.8397064 0 0 1 9.834678,-9.84307 9.8397264,9.8397064 0 0 1 9.844772,9.832974"
+       inkscape:transform-center-x="8.1313651"
+       inkscape:transform-center-y="-3.1899813"
+       sodipodi:open="true" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.320535"
+       id="path17"
+       sodipodi:type="arc"
+       sodipodi:cx="210.51378"
+       sodipodi:cy="85.719254"
+       sodipodi:rx="9.8397264"
+       sodipodi:ry="9.8397064"
+       sodipodi:start="0"
+       sodipodi:end="6.2825013"
+       sodipodi:arc-type="arc"
+       d="m 220.35351,85.719254 a 9.8397264,9.8397064 0 0 1 -9.83805,9.839706 9.8397264,9.8397064 0 0 1 -9.84141,-9.836341 9.8397264,9.8397064 0 0 1 9.83468,-9.843071 9.8397264,9.8397064 0 0 1 9.84477,9.832975"
+       inkscape:transform-center-x="8.1313651"
+       inkscape:transform-center-y="-3.1899813"
+       sodipodi:open="true" />
+  </g>
+</svg>
